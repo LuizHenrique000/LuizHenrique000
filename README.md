@@ -36,8 +36,8 @@
   <a href="https://www.instagram.com/luizlhra24/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "luizlhra24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-henrique-alba-774964219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- ![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/output/github-contribution-grid-snake.svg)
-</div>
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizHenrique000&label=Profile%20views&color=0e75b6&style=flat" alt="LuizHenrique000" /> </p>
+ ![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/output/github-contribution-grid-snake.svg)
+</div>
