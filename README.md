@@ -39,7 +39,6 @@
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizHenrique000&label=Profile%20views&color=0e75b6&style=flat" alt="LuizHenrique000" /> </p>
- ![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/output/github-contribution-grid-snake.svg)
 
