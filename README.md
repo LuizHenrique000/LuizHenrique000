@@ -38,6 +38,7 @@
   <a href="https://www.linkedin.com/in/luiz-henrique-alba-774964219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <br/>
 <br/>
- ![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/main/.github/workflows/snake.yml)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizHenrique000&label=Profile%20views&color=0e75b6&style=flat" alt="LuizHenrique000" /> </p>
 </div>
+
+ ![Snake animation](https://github.com/LuizHenrique000/LuizHenrique000/blob/main/.github/workflows/snake.yml)
