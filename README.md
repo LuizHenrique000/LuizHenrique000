@@ -1,6 +1,5 @@
 # Olá, eu sou o Luiz Henrique! 
 
-- 🖥 Estou trabalhando na Aceleradora Ágil
 - 📚 Estudando Javascript/Java/React
 - 🤝Contate-me: luizlhra24@gmail.com
 - 🧍🏽‍♂ Pronome: Ele/Dele
