@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz Henrique! 
 
-- 📚 Estudando Javascript/Java/React
+- 📚 Estudando Javascript/Java/Node
 - 🤝Contate-me: luizlhra24@gmail.com
 - 🧍🏽‍♂ Pronome: Ele/Dele
 
