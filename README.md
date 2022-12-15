@@ -1,6 +1,6 @@
 # Hi, I'm Luiz Henrique!
 
-- 📚 Studying: Javascript/Java/Node
+- 📚 Studying: React/Spring/Kotlin/Android
 - 🤝 Contact me: luizlhra24@gmail.com
 - 🧔‍♂️ Pronoun: He/His
 
